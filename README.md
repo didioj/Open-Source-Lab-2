@@ -2,7 +2,7 @@
 
 Jakob Didio
 
-![Myphoto](Capture.png)
+![Myphoto](Capture.PNG)
 
 Graduating Year: 2021
 
