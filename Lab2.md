@@ -8,3 +8,5 @@ Link to spoon knife fork: https://github.com/didioj/Spoon-Knife
 ![puzzle](puzzle4.PNG)
 
 Link to courseproject: https://github.com/didioj/courseproject
+
+Link to project ideas: https://github.com/Chimoe/ProjectIdeas2019/blob/Table7/ProjectIdeas7.Md
